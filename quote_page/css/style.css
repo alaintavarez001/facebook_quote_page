@@ -1,0 +1,25 @@
+button {
+    width: 20%;
+    font-family:fantasy;
+    font-size: 20px;
+    background-color: coral;
+    border-color: chocolate
+}
+
+#quoteBox {
+    display: block;
+    margin: 200px auto 0 auto;
+    border: solid 3px chocolate;
+    background-color: rgba(255,127,80,0.5);
+    text-align: center;
+}
+
+h1, h3 {
+    font-family: fantasy;
+}
+
+tittle{
+    font-family:fantasy;
+    font-size: 60px;
+    margin: 0 auto;
+}
